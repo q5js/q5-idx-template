@@ -1,0 +1,14 @@
+{
+	"IDX.aI.enableInlineCompletion": true,
+	"IDX.aI.enableCodebaseIndexing": true,
+	"editor.inlineSuggest.enabled": true,
+	"editor.tabSize": 2,
+	"editor.insertSpaces": false,
+	"editor.bracketPairColorization.enabled": true,
+	"editor.minimap.enabled": false,
+	"editor.glyphMargin": false,
+	"editor.folding": false,
+	"editor.wordWrap": "on",
+	"files.insertFinalNewline": true,
+	"files.trimFinalNewlines": true
+}

@@ -1,7 +1,7 @@
 { pkgs, ... }: {
   packages = [];
   bootstrap = ''
-    cp -rf ${./} "$out"
+    cp -rf . "$out"
     chmod -R +w "$out"
   '';
 }

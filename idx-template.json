@@ -1,0 +1,20 @@
+{
+	"name": "q5.js WebGPU",
+	"description": "Create interactive art using q5.js!",
+	"categories": ["Web app"],
+	"icon": "https://q5js.org/q5js_logo.webp",
+	"website": "https://q5js.org",
+	"publisher": "Quinton Ashley",
+	"params": [
+		{
+			"id": "language",
+			"name": "Language",
+			"type": "enum",
+			"default": "js",
+			"options": {
+				"js": "JavaScript",
+				"ts": "TypeScript"
+			}
+		}
+	]
+}

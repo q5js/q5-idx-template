@@ -1,14 +1,14 @@
 {
-  "name": "q5-webgpu-template",
-  "version": "1.0.0",
-  "main": "sketch.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "q5": "^2.23.0"
-  }
+	"name": "q5-webgpu-template",
+	"version": "1.0.1",
+	"main": "sketch.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"q5": "^2.23.0"
+	}
 }

@@ -1,6 +1,6 @@
 {
 	"name": "q5-webgpu-template",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"main": "sketch.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"

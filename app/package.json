@@ -1,6 +1,6 @@
 {
 	"name": "q5-webgpu-template",
-	"version": "1.1.2",
+	"version": "1.2.0",
 	"main": "sketch.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,6 @@
 	"license": "ISC",
 	"description": "",
 	"dependencies": {
-		"q5": "^2.23.0"
+		"q5": "^3.0.2"
 	}
 }
